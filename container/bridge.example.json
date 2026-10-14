@@ -1,0 +1,5 @@
+{
+  "state_dir": "/state",
+  "lock_dir": "/state/locks",
+  "callback_hosts": []
+}

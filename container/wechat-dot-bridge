@@ -1,0 +1,2 @@
+#!/bin/sh
+exec python -m wechat_dot_bridge "$@"
